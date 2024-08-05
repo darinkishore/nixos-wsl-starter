@@ -9,6 +9,7 @@
   unstable-packages = with pkgs.unstable; [
     # FIXME: select your core binaries that you always want on the bleeding-edge
     bat
+    helix
     bottom
     coreutils
     curl
