@@ -39,6 +39,7 @@
     # FIXME: you can add plugins, change keymaps etc using (jeezyvim.nixvimExtend {})
     # https://github.com/LGUG2Z/JeezyVim#extending
     jeezyvim
+    uname
 
     # key tools
     gh # for bootstrapping
